@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/brett-buwalda/Project/ISP/isp-project/Text-Based/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/brett-buwalda/Project/ISP/isp-project/Text-Based/main.swift": {
+    "dependencies": "/home/brett-buwalda/Project/ISP/isp-project/Text-Based/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/brett-buwalda/Project/ISP/isp-project/Text-Based/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/brett-buwalda/Project/ISP/isp-project/Text-Based/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/brett-buwalda/Project/ISP/isp-project/Text-Based/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  }
+}
